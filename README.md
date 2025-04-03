@@ -43,7 +43,6 @@
 | **Medium** | ¥64 | ¥56 | ¥52 | ¥48 | 700GB | 同上 |
 | **Large**  | ¥110 | ¥96 | ¥89 | ¥82 | 1500GB | 同上 |
 
-如果你需要进一步整理或添加额外信息，比如套餐推荐或性价比分析，告诉我！
 ![image](https://github.com/user-attachments/assets/6aba333e-de4c-4f8a-a518-4b04f4a8358f)
 
 
